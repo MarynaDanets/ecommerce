@@ -1,6 +1,6 @@
 # E-Commerce Data Analysis Project
 
-This project focuses on the comprehensive analysis of e-commerce data using Python, Pandas, and data visualization libraries. The analysis aims to provide insights into various aspects of an online retail business, helping to drive data-driven decision-making.
+This project focuses on the comprehensive analysis of e-commerce data. The analysis aims to provide insights into various aspects of an online retail business, helping to drive data-driven decision-making.
 
 ## Project Overview
 
@@ -17,12 +17,6 @@ In this project, I applied data analysis techniques to explore and visualize e-c
 - **Descriptive Statistics:** Summarizing the dataset to understand basic characteristics.
 - **Visual Exploration:** Using visualizations to explore distributions and relationships between variables.
 
-### Data Visualization
-- **Matplotlib & Seaborn:** Utilizing these libraries to create various plots, such as bar charts, line plots, histograms, and scatter plots.
-- **Sales Trends:** Visualizing sales trends over time.
-- **Customer Behavior:** Analyzing and visualizing customer purchasing patterns.
-- **Product Performance:** Evaluating the performance of products and categories.
-
 ### Insights and Conclusions
 - **Most Profitable Products:** Identifying top-performing products.
 - **Customer Purchasing Patterns:** Understanding when and how customers purchase.
@@ -34,7 +28,6 @@ In this project, I applied data analysis techniques to explore and visualize e-c
 - **NumPy**
 - **Matplotlib**
 - **Seaborn**
-- **Jupyter Notebook**
 
 ## Project Highlights
 - **Sales Analysis:** A detailed examination of sales data, including time-series analysis and seasonal trends.
